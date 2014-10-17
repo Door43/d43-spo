@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[spo:home|Door43 (spo)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-spo|d43-spo repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-spo/archive/master.zip|d43-spo.zip]]
+
+**Recent Changes**
+{{changes>ns = spo}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/spo|Ethnologue data]]
+
